@@ -1,0 +1,145 @@
+[
+    {
+        "id_warehouse1" : "Arouca",
+        "id_warehouse2" : "Espinho",
+        "distance" : 53,
+        "path_time" : 122,
+        "energy" : 42,
+        "extra_time" : 0
+    }, 
+
+    {
+        "id_warehouse1" : "Arouca",
+        "id_warehouse2" : "Gondomar",
+        "distance" : 57,
+        "path_time" : 122,
+        "energy" : 46,
+        "extra_time" : 0
+    },
+
+    {
+        "id_warehouse1" : "Arouca",
+        "id_warehouse2" : "Maia",
+        "distance" : 67,
+        "path_time" : 151,
+        "energy" : 54,
+        "extra_time" : 25
+    },
+
+    {
+        "id_warehouse1" : "Arouca",
+        "id_warehouse2" : "Matosinhos",
+        "distance" : 65,
+        "path_time" : 147,
+        "energy" : 52,
+        "extra_time" : 25
+    },
+
+    {
+        "id_warehouse1" : "Arouca",
+        "id_warehouse2" : "Oliveira de Azeméis",
+        "distance" : 30,
+        "path_time" : 74,
+        "energy" : 24,
+        "extra_time" : 0
+    },
+
+    {
+        "id_warehouse1" : "Arouca",
+        "id_warehouse2" : "Paredes",
+        "distance" : 44,
+        "path_time" : 116,
+        "energy" : 35,
+        "extra_time" : 0
+    },
+
+    {
+        "id_warehouse1" : "Arouca",
+        "id_warehouse2" : "Porto",
+        "distance" : 57,
+        "path_time" : 141,
+        "energy" : 46,
+        "extra_time" : 0
+    },
+
+    {
+        "id_warehouse1" : "Arouca",
+        "id_warehouse2" : "Póvoa de Varzim",
+        "distance" : 92,
+        "path_time" : 185,
+        "energy" : 74,
+        "extra_time" : 53
+    },
+
+    {
+        "id_warehouse1" : "Arouca",
+        "id_warehouse2" : "Santa Maria da Feira",
+        "distance" : 37,
+        "path_time" : 97,
+        "energy" : 30,
+        "extra_time" : 0
+    },
+
+    {
+        "id_warehouse1" : "Arouca",
+        "id_warehouse2" : "Santo Tirso",
+        "distance" : 80,
+        "path_time" : 164,
+        "energy" : 64,
+        "extra_time" : 40
+    },
+
+    {
+        "id_warehouse1" : "Arouca",
+        "id_warehouse2" : "São João da Madeira",
+        "distance" : 29,
+        "path_time" : 76,
+        "energy" : 23,
+        "extra_time" : 0
+    },
+
+    {
+        "id_warehouse1" : "Arouca",
+        "id_warehouse2" : "Trofa",
+        "distance" : 83,
+        "path_time" : 174,
+        "energy" : 66,
+        "extra_time" : 45
+    },
+
+    {
+        "id_warehouse1" : "Arouca",
+        "id_warehouse2" : "Vale de Cambra",
+        "distance" : 22,
+        "path_time" : 59,
+        "energy" : 18,
+        "extra_time" : 0
+    },
+
+    {
+        "id_warehouse1" : "Arouca",
+        "id_warehouse2" : "Valongo",
+        "distance" : 64,
+        "path_time" : 132,
+        "energy" : 51,
+        "extra_time" : 24
+    },
+
+    {
+        "id_warehouse1" : "Arouca",
+        "id_warehouse2" : "Vila do Conde",
+        "distance" : 85,
+        "path_time" : 181,
+        "energy" : 68,
+        "extra_time" : 45
+    },
+
+    {
+        "id_warehouse1" : "Arouca",
+        "id_warehouse2" : "Vila Nova de Gaia",
+        "distance" : 56,
+        "path_time" : 128,
+        "energy" : 45,
+        "extra_time" : 0
+    }
+]

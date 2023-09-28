@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WarehouseApiTest
+build_property.ProjectDir = C:\Users\lolas\OneDrive\Documentos\Faculdade(WORK)\3º ANO\ARQSI\lei22_23_3dg_g38_gestao\lapr5dg38\WarehouseApiTest\

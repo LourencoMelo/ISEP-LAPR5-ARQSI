@@ -1,0 +1,42 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="6.0.10" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="7.0.0-*">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="6.0.10" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.0-*" />
+    <PackageReference Include="Moq" Version="4.18.2" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.4" />
+    <PackageReference Include="xunit.abstractions" Version="2.0.3" />
+    <PackageReference Include="xunit.assert" Version="2.4.1" />
+    <PackageReference Include="xunit.extensibility.core" Version="2.4.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Database" />
+    <Folder Include="Docs\Warehouse" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <_ContentIncludedByDefault Remove="WarehouseApiTest\bin\Debug\net6.0\appsettings.Development.json" />
+    <_ContentIncludedByDefault Remove="WarehouseApiTest\bin\Debug\net6.0\appsettings.json" />
+    <_ContentIncludedByDefault Remove="WarehouseApiTest\bin\Debug\net6.0\WarehouseApi.deps.json" />
+    <_ContentIncludedByDefault Remove="WarehouseApiTest\bin\Debug\net6.0\WarehouseApi.runtimeconfig.json" />
+    <_ContentIncludedByDefault Remove="WarehouseApiTest\bin\Debug\net6.0\WarehouseApiTest.deps.json" />
+    <_ContentIncludedByDefault Remove="WarehouseApiTest\bin\Debug\net6.0\WarehouseApiTest.runtimeconfig.json" />
+    <_ContentIncludedByDefault Remove="WarehouseApiTest\obj\project.assets.json" />
+    <_ContentIncludedByDefault Remove="WarehouseApiTest\obj\project.packagespec.json" />
+    <_ContentIncludedByDefault Remove="WarehouseApiTest\obj\WarehouseApiTest.csproj.nuget.dgspec.json" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,191 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\lolas\\OneDrive\\Documentos\\Faculdade(WORK)\\3º ANO\\ARQSI\\lei22_23_3dg_g38_gestao\\lapr5dg38\\WarehouseApiTest\\WarehouseApiTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\lolas\\OneDrive\\Documentos\\Faculdade(WORK)\\3º ANO\\ARQSI\\lei22_23_3dg_g38_gestao\\WarehouseApi\\WarehouseApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lolas\\OneDrive\\Documentos\\Faculdade(WORK)\\3º ANO\\ARQSI\\lei22_23_3dg_g38_gestao\\WarehouseApi\\WarehouseApi.csproj",
+        "projectName": "WarehouseApi",
+        "projectPath": "C:\\Users\\lolas\\OneDrive\\Documentos\\Faculdade(WORK)\\3º ANO\\ARQSI\\lei22_23_3dg_g38_gestao\\WarehouseApi\\WarehouseApi.csproj",
+        "packagesPath": "C:\\Users\\lolas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lolas\\OneDrive\\Documentos\\Faculdade(WORK)\\3º ANO\\ARQSI\\lei22_23_3dg_g38_gestao\\WarehouseApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lolas\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0-*, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.0-*, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.18.2, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.4, )"
+            },
+            "xunit.abstractions": {
+              "target": "Package",
+              "version": "[2.0.3, )"
+            },
+            "xunit.assert": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.extensibility.core": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\lolas\\OneDrive\\Documentos\\Faculdade(WORK)\\3º ANO\\ARQSI\\lei22_23_3dg_g38_gestao\\lapr5dg38\\WarehouseApiTest\\WarehouseApiTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lolas\\OneDrive\\Documentos\\Faculdade(WORK)\\3º ANO\\ARQSI\\lei22_23_3dg_g38_gestao\\lapr5dg38\\WarehouseApiTest\\WarehouseApiTest.csproj",
+        "projectName": "WarehouseApiTest",
+        "projectPath": "C:\\Users\\lolas\\OneDrive\\Documentos\\Faculdade(WORK)\\3º ANO\\ARQSI\\lei22_23_3dg_g38_gestao\\lapr5dg38\\WarehouseApiTest\\WarehouseApiTest.csproj",
+        "packagesPath": "C:\\Users\\lolas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lolas\\OneDrive\\Documentos\\Faculdade(WORK)\\3º ANO\\ARQSI\\lei22_23_3dg_g38_gestao\\lapr5dg38\\WarehouseApiTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lolas\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\lolas\\OneDrive\\Documentos\\Faculdade(WORK)\\3º ANO\\ARQSI\\lei22_23_3dg_g38_gestao\\WarehouseApi\\WarehouseApi.csproj": {
+                "projectPath": "C:\\Users\\lolas\\OneDrive\\Documentos\\Faculdade(WORK)\\3º ANO\\ARQSI\\lei22_23_3dg_g38_gestao\\WarehouseApi\\WarehouseApi.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.1.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.18.2, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
